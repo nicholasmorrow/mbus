@@ -1,7 +1,7 @@
 /*************************************************************************
  Title:    mbus.h - C Library for MBUS data link layer serial communications
  protocol
- Author:   Nicholas Morrow <nmorrow@crystaldiagnostics.com>
+ Author:   Nicholas Morrow <nickhudspeth@gmail.com>
  File:     mbus.h
  Software: STM32Fxxx_HAL_Driver, CMSIS-CORE
  Hardware: STM32Fxxx
