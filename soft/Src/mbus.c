@@ -1,7 +1,7 @@
 /************************************************************************
  Title:	  mbus.c - C Library for MBUS data link layer serial
  communications protocol
- Author:   Nicholas Morrow <nmorrow@crystaldiagnostics.com>
+ Author:   Nicholas Morrow <nickhudspeth@gmail.com>
  File:     mbus.c
  Software: STM32Fxxx_HAL_Driver, CMSIS-CORE
  Hardware: STM32Fxxx
@@ -9,7 +9,7 @@
  Usage:    Refer to the header file mbus.h for a description of the routines.
  See also example test_mbus.c, if available.
  LICENSE:
- Copyright (C) 2018 Pathogen Systems, Inc. dba Crystal Diagnostics
+ Copyright (C) 2018 Nicholas Morrow
 
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to
